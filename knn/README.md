@@ -5,4 +5,4 @@ Implementação do algoritmo de classificação k-NN.
 
 ####Modo de execução:
 
-~ `python K-NN.py`
+py knn.py
